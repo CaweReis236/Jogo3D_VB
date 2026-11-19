@@ -1,0 +1,42 @@
+# Compilacao e binarios
+/simulador
+/build/
+/bin/
+/obj/
+*.o
+*.a
+*.so
+*.so.*
+*.exe
+*.out
+
+# Dados de partidas e ranking local (nao publicar dados pessoais)
+*.dat
+*.tsv
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+.vector_search_modelo
+
+# Gravacoes e temporarios
+*.mp4
+*.mkv
+*.avi
+*.log
+*.tmp
+*.bak
+*~
+__pycache__/
+*.py[cod]
+
+# Configuracao privada e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDEs
+.vscode/
+.idea/

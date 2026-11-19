@@ -1,0 +1,8 @@
+# Material OBJ: conferir se este arquivo existe junto ao .obj
+newmtl AvatarTexturizado
+Ka 0.70 0.70 0.70
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 1
+map_Kd player.png
